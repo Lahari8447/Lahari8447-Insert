@@ -1,0 +1,1 @@
+INSERT INTO song (Title,Artist) Values ('Let it be ','Beatles');
